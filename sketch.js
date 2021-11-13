@@ -58,123 +58,123 @@ var gameState = "playerState";
 //function to preload the images, sounds and other media
 function preload(){
 //preload the image for mansion
-mansionImage = loadImage("./media/mansion.png");
+mansionImage = loadImage("mansion.png");
 //preload the image for tower1
-towerImage1 = loadImage("./media/tower.png");
+towerImage1 = loadImage("tower.png");
 //peload the image for tower2
-towerImage2 = loadImage("./media/tower2.png");
+towerImage2 = loadImage("tower2.png");
 //preload the image for tower3
-towerImage3 = loadImage("./media/thinTower.png");
+towerImage3 = loadImage("thinTower.png");
 //preload the image for tower4
-towerImage4 = loadImage("./media/thinTower2.png");
+towerImage4 = loadImage("thinTower2.png");
 //preload the image for emptyTower1
-emptyTowerImage1 = loadImage("./media/empty.png");
+emptyTowerImage1 = loadImage("empty.png");
 //preload the image for emptyTower2
-emptyTowerImage2 = loadImage("./media/empty2.png");
+emptyTowerImage2 = loadImage("empty2.png");
 //preload the image for emptyTower3
-emptyTowerImage3 = loadImage("./media/thinEmpty.png");
+emptyTowerImage3 = loadImage("thinEmpty.png");
 //preload the image for emptyTower4
-emptyTowerImage4 = loadImage("./media/thinEmpty2.png");
+emptyTowerImage4 = loadImage("thinEmpty2.png");
 //preload the image for blueStartImage
-blueStartImage = loadImage("./media/blueCircle.png");
+blueStartImage = loadImage("blueCircle.png");
 //preload the image for greenStartImage
-greenStartImage = loadImage("./media/greenCircle.png");
+greenStartImage = loadImage("greenCircle.png");
 //preload the image for redStartImage
-redStartImage = loadImage("./media/redCircle.png");
+redStartImage = loadImage("redCircle.png");
 //preload the image for yellowStartImage
-yellowStartImage = loadImage("./media/yellowCircle.png");
+yellowStartImage = loadImage("yellowCircle.png");
 //preload the image for blue1Image
-blue1Image = loadImage("./media/jeanGrey.png");
+blue1Image = loadImage("jeanGrey.png");
 //preload the image for blue2Image
-blue2Image = loadImage("./media/iceman.png");
+blue2Image = loadImage("iceman.png");
 //preload the image for blue3Image
-blue3Image = loadImage("./media/beast.png");
+blue3Image = loadImage("beast.png");
 //preload the image for blue4Image
-blue4Image = loadImage("./media/colossus.png");
+blue4Image = loadImage("colossus.png");
 //preload the image for green1Image
-green1Image = loadImage("./media/nightcrawler.png");
+green1Image = loadImage("nightcrawler.png");
 //preload the image for green2Image
-green2Image = loadImage("./media/archangel.png");
+green2Image = loadImage("archangel.png");
 //preload the image for green3Image
-green3Image = loadImage("./media/havoc.png");
+green3Image = loadImage("havoc.png");
 //preload the image for green4Image
-green4Image = loadImage("./media/storm.png");
+green4Image = loadImage("storm.png");
 //preload the image for red1Image
-red1Image = loadImage("./media/jubilee.png");
+red1Image = loadImage("jubilee.png");
 //preload the image for red2Image
-red2Image = loadImage("./media/wolverine.png");
+red2Image = loadImage("wolverine.png");
 //preload the image for red3Image
-red3Image = loadImage("./media/bishop.png");
+red3Image = loadImage("bishop.png");
 //preload the image for red4Image
-red4Image = loadImage("./media/psylocke.png");
+red4Image = loadImage("psylocke.png");
 //preload the image for yellow1Image
-yellow1Image = loadImage("./media/polaris.png");
+yellow1Image = loadImage("polaris.png");
 //preload the image for yellow2Image
-yellow2Image = loadImage("./media/gambit.png");
+yellow2Image = loadImage("gambit.png");
 //preload the image for yellow3Image
-yellow3Image = loadImage("./media/cyclops.png");
+yellow3Image = loadImage("cyclops.png");
 //preload the image for yellow4Image
-yellow4Image = loadImage("./media/rogue.png");
+yellow4Image = loadImage("rogue.png");
 //preload the image for jugg1
-juggImage1 = loadImage("./media/jugg1.png");
+juggImage1 = loadImage("jugg1.png");
 //preload the image for jugg2
-juggImage2 = loadImage("./media/jugg2.png");
+juggImage2 = loadImage("jugg2.png");
 //preload the image for jugg3
-juggImage3 = loadImage("./media/jugg3.png");
+juggImage3 = loadImage("jugg3.png");
 //preload the image for jugg4
-juggImage4 = loadImage("./media/jugg4.png");
+juggImage4 = loadImage("jugg4.png");
 //preload the image for jugg5
-juggImage5 = loadImage("./media/jugg5.png");
+juggImage5 = loadImage("jugg5.png");
 //preload the image for jugg6
-juggImage6 = loadImage("./media/jugg22.png");
+juggImage6 = loadImage("jugg22.png");
 //preload the image for jugg7
-juggImage7 = loadImage("./media/jugg23.png");
+juggImage7 = loadImage("jugg23.png");
 //preload the image for jugg8
-juggImage8 = loadImage("./media/jugg24.png");
+juggImage8 = loadImage("jugg24.png");
 //preload the image for apocalypse1
-apoc1Image = loadImage("./media/apocalypse1.png");
+apoc1Image = loadImage("apocalypse1.png");
 //preload the image for apocalyse2
-apoc2Image = loadImage("./media/apocalypse2.png");
+apoc2Image = loadImage("apocalypse2.png");
 //preload the image for sentinel1
-sentinel1Image = loadImage("./media/sentinel1.png");
+sentinel1Image = loadImage("sentinel1.png");
 //preload the image for sentinel2
-sentinel2Image = loadImage("./media/sentinel2.png");
+sentinel2Image = loadImage("sentinel2.png");
 //preload the image for 1_dice
-dice1Image1 = loadImage("./media/dice1.jpg");
+dice1Image1 = loadImage("dice1.jpg");
 //preload the image for 2_dice
-dice1Image2 = loadImage("./media/dice2.jpg");
+dice1Image2 = loadImage("dice2.jpg");
 //preload the image for 3_dice
-dice1Image3 = loadImage("./media/dice3.jpg");
+dice1Image3 = loadImage("dice3.jpg");
 //preload the image for 4_dice
-dice1Image4 = loadImage("./media/dice4.jpg");
+dice1Image4 = loadImage("dice4.jpg");
 //preload the image for 5_dice
-dice1Image5 = loadImage("./media/dice5.jpg");
+dice1Image5 = loadImage("dice5.jpg");
 //preload the image for 6_dice
-dice1Image6 = loadImage("./media/dice6.jpg");
+dice1Image6 = loadImage("dice6.jpg");
 //preload the image for blueBlock
-blueBlock = loadImage("./media/blueRing.png");
+blueBlock = loadImage("blueRing.png");
 //preload the image for greenBlock
-greenBlock = loadImage("./media/greenRing.png");
+greenBlock = loadImage("greenRing.png");
 //preload the image for redBlock
-redBlock = loadImage("./media/redRing.png");
+redBlock = loadImage("redRing.png");
 //preload the image for yellowBlock
-yellowBlock = loadImage("./media/yellowRing.png");
+yellowBlock = loadImage("yellowRing.png");
 //preload the image for magneto1Image
-magneto1Image = loadImage("./media/magneto1.png");
+magneto1Image = loadImage("magneto1.png");
 //preload the image for magneto2Image
-magneto2Image = loadImage("./media/magneto2.png");
+magneto2Image = loadImage("magneto2.png");
 //preload the image for magneto3Image
-magneto3Image = loadImage("./media/magneto3.png");
+magneto3Image = loadImage("magneto3.png");
 //preload the image for magneto4Image
-magneto4Image = loadImage("./media/magneto4.png");
+magneto4Image = loadImage("magneto4.png");
 //preload the image for blueToken
-blueTokenImage = loadImage("./media/blueCube.png");
+blueTokenImage = loadImage("blueCube.png");
 //preload the image for greenToken
-greenTokenImage = loadImage("./media/greenCube.png");
+greenTokenImage = loadImage("greenCube.png");
 //preload the image for redToken
-redTokenImage = loadImage("./media/redCube.png");
+redTokenImage = loadImage("redCube.png");
 //preload the image for yellowToken
-yellowTokenImage = loadImage("./media/yellowCube.png");
+yellowTokenImage = loadImage("yellowCube.png");
 }
 
 //function to setup the game
@@ -485,7 +485,7 @@ empty4 = createSprite(275, 480, 100, 60);
 empty4.addImage("empty4", emptyTowerImage4);
 
 //create rollButton
-rollButton = createImg("./media/go.png");
+rollButton = createImg("go.png");
 //set a specific position of rollButton
 rollButton.position(625, 437.5);
 //set a specific size of rollButton
