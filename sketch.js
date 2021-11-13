@@ -1090,11 +1090,11 @@ token1.y = 535;
 token1.isPlayed = true;
 }
 }
-
+ 
 //condition to start the token
 if (sum4 && token2.isPlayed === false){
 //condition to move the token
-if (sum1 && mousePressedOver(token2)){
+if (sum1 && mousePressedOver(token2){
 //set the xPosition of token
 token2.x = 350;
 //set the yPosition of token
@@ -1103,148 +1103,59 @@ token2.y = 535;
 token2.isPlayed = true;
 }
 }
-
+ 
 //condition to start the token
 if (sum4 && token2.isPlayed === false){
 //condition to move the token
-if (sum2 && mousePressedOver(token2)){
+if (sum2 && token2.isPLayed === false){
 //set the xPosition of token
 token2.x = 450;
 //set the yPosition of token
 token2.y = 535;
-//set the isPlayed property of token
+//set the isPlayed property of the token
 token2.isPlayed = true;
 }
 }
+ 
+//condition to start the token
+ 
+//condition to move the token
+ 
+//set the xPosiion of token
+ 
+//set the yPosition of token
+
+//set the isPlayed property of token
+ 
+//condition to start the token
+ 
+//condition to move the token
+ 
+//set the xPosiion of token
+ 
+//set the yPosition of token
+
+//set the isPlayed property of token
+ 
+//condition to start the token
+ 
+//condition to move the token
+ 
+//set the xPosiion of token
+ 
+//set the yPosition of token
+
+//set the isPlayed property of token
 
 //condition to start the token
-if (sum4 && token2.isPlayed === false){
+ 
 //condition to move the token
-if (sum3 && mousePressedOver(token2)){
-//set the xPosition of token
-token2.x = 550;
+ 
+//set the xPosiion of token
+ 
 //set the yPosition of token
-token2.y = 535;
-//set the isPlayed property of token
-token2.isPlayed = true;
-}
-}
 
-//condition to start the token
-if (sum4 && token2.isPlayed === false){
-//condition to move the token
-if (sum4 && mousePressedOver(token2)){
-//set the xPosition of token
-token2.x = 650;
-//set the yPosition of token
-token2.y = 535;
 //set the isPlayed property of token
-token2.isPlayed = true;
-}
-}
-
-//condition to start the token
-if (sum4 && token2.isPlayed === false){
-//condition to move the token
-if (sum5 && mousePressedOver(token2)){
-//set the xPosition of token
-token2.x = 750;
-//set the yPosition of token
-token2.y = 535;
-//set the isPlayed property of token
-token2.isPlayed = true;
-}
-}
-
-//condition to start the token
-if (sum4 && token2.isPlayed === false){
-//condition to move the token
-if (sum6 && mousePressedOver(token2)){
-//set the xPosition of token
-token2.x = 850;
-//set the yPosition of token
-token2.y = 535;
-//set the isPlayed property of token
-token2.isPlayed = true;
-}
-}
-
-//condition to start the token
-if (sum4 && token3.isPlayed === false){
-//condition to move the token
-if (sum1 && mousePressedOver(token3)){
-//set the xPosition of token
-token3.x = 350;
-//set the yPosition of token
-token3.y = 535;
-//set the isPlayed property of token
-token3.isPlayed = true;
-}
-}
-    
-//condition to start the token
-if (sum4 && token3.isPlayed === false){
-//condition to move the token
-if (sum2 && mousePressedOver(token3)){
-//set the xPosition of token
-token3.x = 450;
-//set the yPosition of token
-token3.y = 535;
-//set the isPlayed property of token
-token3.isPlayed = true;
-}
-}
-    
-//condition to start the token
-if (sum4 && token3.isPlayed === false){
-//condition to move the token
-if (sum3 && mousePressedOver(token3)){
-//set the xPosition of token
-token3.x = 550;
-//set the yPosition of token
-token3.y = 535;
-//set the isPlayed property of token
-token3.isPlayed = true;
-}
-}
-    
-//condition to start the token
-if (sum4 && token3.isPlayed === false){
-//condition to move the token
-if (sum4 && mousePressedOver(token3)){
-//set the xPosition of token
-token3.x = 650;
-//set the yPosition of token
-token3.y = 535;
-//set the isPlayed property of token
-token3.isPlayed = true;
-}
-}
-    
-//condition to start the token
-if (sum4 && token3.isPlayed === false){
-//condition to move the token
-if (sum5 && mousePressedOver(token3)){
-//set the xPosition of token
-token3.x = 750;
-//set the yPosition of token
-token3.y = 535;
-//set the isPlayed property of token
-token3.isPlayed = true;
-}
-}
-    
-//condition to start the token
-if (sum4 && token3.isPlayed === false){
-//condition to move the token
-if (sum6 && mousePressedOver(token3)){
-//set the xPosition of token
-token3.x = 850;
-//set the yPosition of token
-token3.y = 535;
-//set the isPlayed property of token
-token3.isPlayed = true;
-}
 }
 
 //command to draw the sprites
